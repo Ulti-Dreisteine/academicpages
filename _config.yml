@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "罗磊 / Lei Luo"
+# title                    : "罗磊 / Lei Luo"
 title_separator          : "-"
 name                     : &name "罗磊 / Lei Luo"
 description              : &description "罗磊的学术主页"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "Ulti-Dreisteine/academicpages"
 author:
   # Biographic information
   avatar           : "profile.png"
-  # name             : "罗磊 / Lei Luo"
+  name             : "罗磊"
   # pronouns         : "he/him"
   # bio              : ""
   location         : "中国·成都"
