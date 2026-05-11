@@ -1,56 +1,142 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+个人简介
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* **专业**:
+  * *学士*，化学工程与工业生物工程，清华大学，北京
+  * *硕士*，化学工程与技术（过程系统工程方向），清华大学，北京
+  * *博士*，化学工程与技术（过程系统工程方向），四川大学，成都
+* **邮箱**:
+  * dreisteine262@163.com
+  * dreisteine262@gmail.com
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+兴趣方向
+====
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* *因果推断与结构学习*
+* *非线性过程建模*
+* *系统辨识与模型预测控制*
+* *时间序列分析*
+* *信息论*
+* *机器学习与深度学习*
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+已发表论文
+====
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. **L. Luo**, Y. Qiu, Y. Li, L. Zhou, X. Ji, G. He. ***Hierarchical Causal Discovery and Assessment in Alkaline Electrolysis Process***. Computers & Chemical Engineering, 2026.
+2. S. Wang, W. Jiang, Q. Liu, K. Liu, X. Ji, **L. Luo**, G. He. ***Multi-timescale Modeling Framework for Natural Gas Desulfurization Process: Integrating Time-lagged Causal Relationships with Machine Learning***. Journal of the Taiwan Institute of Chemical Engineers, 2026.
+3. G. He, J. Cui, X. Huang, B. Liu, X. Ji, **L. Luo**, C. Guo. ***Data-Driven Online Optimization for Fluid Catalytic Cracking Using Bayesian Case-Based Reasoning***. Chemical Engineering & Technology, 2025.
+4. R. Wang, L. Ma, Y. Ren, H. Zhao, L. Zhou, **L. Luo**, X. Ji, G. He. ***Compact Temporal Causal Algorithm for Modeling Prediction in the Green Ammonia Production Process***. Chemical Engineering & Technology, 2025.
+5. G. He, **L. Luo**, L. Zhou, Y. Dai, X. Ji, C. Guo, Z. Lu. ***Deep learning prediction of yields of fluid catalytic cracking via differential evolutionary dual-stage attention-based LSTM***. Fuel, 2024.
+6. **L. Luo**, Y. Zhou, Z. Zhou, C. Zhou, X. Ji, B. Liu, G. He. ***Online optimization of petrochemical process via case-based reasoning and conditional mutual information***. Chemical Engineering Research and Design, 2024.
+7. W. Jiang, Z. Li, X. Kang, **L. Luo**, Y. Zhou, Q. Liu, K. Liu, X. Ji, G. He. ***Hybrid modeling approach for natural gas desulfurization process: Coupling mechanism and data modeling via compact variable identification***. Gas Science and Engineering, 2024.
+8. Q. Yang, G. Chen, M. Guo, T. Chen, **L. Luo**, L. Sun. ***Model Predictive Hybrid PID Control and Energy-Saving Performance Analysis of Supercritical Unit***. Energies, 2024.
+9. S. Wang, M. Cheng, **L. Luo**, X. Ji, C. Liu, K. Bi, L. Zhou. ***High-throughput screening of metal–organic frameworks for hydrogen purification***. Chemical Engineering Journal, 2023.
+10. **L. Luo**, G. He, C. Chen, X. Ji, L. Zhou, Y. Dai, Y. Dang. ***Adaptive Data Dimensionality Reduction for Chemical Process Modeling Based on the Information Criterion Related to Data Association and Redundancy***. Industrial & Engineering Chemistry Research, 2022.
+11. **L. Luo**, G. He, Y. Zhang, X. Ji, L. Zhou, Y. Dai, Y. Dang. ***Association Measure and Compact Prediction for Chemical Process Data from An Information-theoretic Perspective***. Processes, 2022.
+12. L. He, **L. Luo**, X. Hou, et al. ***Predicting venous thromboembolism in hospitalized trauma patients: a combination of the Caprini score and data-driven machine learning model***. BMC Emergency Medicine, 2021.
+13. Y. Zhang, **L. Luo**, X. Ji, et al. ***Improved Random Forest Algorithm Based on Decision Paths for Fault Diagnosis of Chemical Process with Incomplete Data***. Sensors, 2021.
+14. **罗磊**, 吉旭. 一种基于相关性分析和深度学习的多元非线性时间序列通用预测方法及其在化工过程中的应用. 2020年中国过程系统工程年会, 重庆, 2020.
+15. **L. Luo**, F. Cheng, T. Qiu, J. Zhao. ***Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes***. Computers & Chemical Engineering, 2017.
+16. **L. Luo**, N. Zhang, Z. Xia, T. Qiu. ***Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene***. Chemical Engineering Science, 2016.
+17. **L. Luo**, T. Qiu, J. Zhao. ***Process Optimization of Propylene under Parametric Disturbances***. PSE Asia 2016.
+18. **L. Luo**, F. Cheng, T. Qiu, J. Zhao. ***An Improved Convergent Cross-Mapping Algorithm for Causality Identification and Time Delay Analysis between Systemic Variables under External Disturbance***. CIESC Journal, 2016.
 
-**Markdown generator**
+专利
+====
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+1. 一种污染物浓度的预测模型训练方法、预测方法及装置, 2020 (有效).
+2. 一种复合脱硫装置石膏浆液密度测量方法及测量系统, 2020 (有效).
+3. 一种脱硫优化方法、装置、电子设备及存储介质, 2020 (有效).
+4. 一种超超临界锅炉三级过热减温水协同控制系统及其方法, 2025 (审中).
+5. 一种基于MESC的锅炉系统闭环多目标优化方法及相关设备, 2025 (审中).
+6. 一种燃煤机组协调级PID与模型预测控制回路解耦控制方法, 2024 (审中).
+7. 基于高斯回归的大气污染物浓度的预测方法及装置, 2020 (失效).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+正在进行
+====
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+* [通用信息估计框架](https://github.com/Ulti-Dreisteine/general-information-estimation-framework)
+* [软件与安装指南](https://github.com/Ulti-Dreisteine/package-and-software-installation-guide)
+* [机器学习研究](https://github.com/Ulti-Dreisteine/machine-learning-research)
+* [因果网络](https://github.com/Ulti-Dreisteine/research-causal-network-analysis-modeling)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+博士课题研究
+====
+
+* [Chapter 2: 统计](https://github.com/Ulti-Dreisteine/phd-thesis-statistics-and-bayesian-network)
+* [Chapter 3: 紧凑建模 1](https://github.com/Ulti-Dreisteine/research-compact-predictive-modeling-cmim-g)
+* [Chapter 3: 紧凑建模 2](https://github.com/Ulti-Dreisteine/phd-thesis-rmic-chemical-process-causality-analysis)
+* [Chapter 4: 时序因果分析 1](https://github.com/Ulti-Dreisteine/phd-thesis-temporal-causal-analysis)
+* [Chapter 4: 时序因果分析 2](https://github.com/Ulti-Dreisteine/phd-thesis-local-causal-analysis)
+* [Chapter 4: 时序因果分析 3](https://github.com/Ulti-Dreisteine/phd-thesis-time-delayed-causal-analysis-and-compact-modeling)
+* [Chapter 5: 过程参数估计 1](https://github.com/Ulti-Dreisteine/phd-thesis-process-parameter-estimation)
+* [Chapter 5: 过程参数估计 2](https://github.com/Ulti-Dreisteine/research-bayesian-parameter-estimation)
+
+代码仓库
+====
+
+***化工过程建模***
+
+* [CSTR 动态模型](https://github.com/Ulti-Dreisteine/cstr_transient_model)
+* [动态过程模拟](https://github.com/Ulti-Dreisteine/transient-breakthrough-simulation)
+
+***数据分析***
+
+* [时间序列相关性](https://github.com/Ulti-Dreisteine/time_series_relevant)
+* [时间序列相关分析](https://ulti-dreisteine.github.io/time-series-correlaltion-analysis/)
+* [时间序列滚动预测](https://github.com/Ulti-Dreisteine/time-series-walk-forward-modeling)
+
+***通用工具***
+
+* [软件与环境配置](https://github.com/Ulti-Dreisteine/software-env-config-notes)
+* [算法工具](https://github.com/Ulti-Dreisteine/algorithm-tools)
+* [项目模板](https://github.com/Ulti-Dreisteine/project-template)
+
+***教程***
+
+* [Sphinx 示例](https://github.com/Ulti-Dreisteine/sphinx-demo)
+* [PyCaret 教程](https://github.com/Ulti-Dreisteine/PyCaret-tutorial)
+* [Web 服务](https://github.com/Ulti-Dreisteine/web_service)
+
+***算法研究***
+
+* [GBDT 局部解释](https://ulti-dreisteine.github.io/local-interpretation-for-gbdt/)
+* [数据分类](https://github.com/Ulti-Dreisteine/Classification-with-Incomplete-Data)
+* [相关性分析](https://github.com/Ulti-Dreisteine/nonlinear-correlation-analysis)
+* [时间序列相关分析](https://github.com/Ulti-Dreisteine/time-series-correlaltion-analysis)
+* [神经 ODE 网络建模 (A)](https://github.com/Ulti-Dreisteine/Neural-ODE-Model-Research)
+* [神经 ODE 网络建模 (B)](https://github.com/Ulti-Dreisteine/ode_network)
+* [数值优化](https://github.com/Ulti-Dreisteine/numerical-optimization)
+* [高斯过程回归](https://github.com/Ulti-Dreisteine/gaussian-process-regression)
+* [聚类](https://github.com/Ulti-Dreisteine/clustering_algorithm)
+
+***练习***
+
+* [LeetCode](https://github.com/Ulti-Dreisteine/LeetCode)
+* [动态规划](https://github.com/Ulti-Dreisteine/dynamic_programming)
+
+***应用案例***
+
+* [VTE 建模](https://github.com/Ulti-Dreisteine/trauma-patient-VTE-modeling)
+* [GCN2Seq 空气预测](https://github.com/Ulti-Dreisteine/gcn2seq)
+* [空气质量预测](https://github.com/Ulti-Dreisteine/time_series_relevant)
+* [化工 CSTR 反应器建模](https://github.com/Ulti-Dreisteine/cstr_transient_model)
+
+***研究项目***
+
+* [研究项目](https://github.com/users/Ulti-Dreisteine/projects/2)
+
+比赛获奖
+====
+
+1. 中国环境保护产业协会"环境技术进步二等奖"，第五完成人
+2. 百度天池国家电网调控AI创新大赛：新能源发电预测，参与人
