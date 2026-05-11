@@ -24,11 +24,11 @@ repository               : "Ulti-Dreisteine/academicpages"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "罗磊 / Lei Luo"
+  # name             : "罗磊 / Lei Luo"
   # pronouns         : "he/him"
   # bio              : ""
   location         : "中国·成都"
-  employer         : "东方电气"
+  # employer         : "东方电气"
   uri              : # URL
   email            : "dreisteine262@163.com" 
 
