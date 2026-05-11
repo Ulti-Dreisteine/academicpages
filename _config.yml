@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 # title                    : "罗磊 / Lei Luo"
-title_separator          : "-"
+# title_separator          : "-"
 name                     : &name "罗磊 / Lei Luo"
 description              : &description "罗磊的学术主页"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ulti-dreisteine.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
