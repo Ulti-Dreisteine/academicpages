@@ -116,6 +116,14 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+# Custom share buttons in page footer.
+# - Use {url} for encoded page URL and {title} for encoded page title.
+# - If this list is set, it overrides the default built-in share buttons.
+custom_share_links:
+  - name: WeChat
+    url: "https://api.qrserver.com/v1/create-qr-code/?size=220x220&data={url}"
+    class: "btn--wechat"
+    icon: "fas fa-qrcode"  
 
 # Analytics
 analytics:
