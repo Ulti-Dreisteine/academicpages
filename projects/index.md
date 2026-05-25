@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "项目实践"
+permalink: /projects/
+author_profile: true
+---
+
+
 ## 工作经历
 
 ### 民航成都物流技术有限公司 (国企)
