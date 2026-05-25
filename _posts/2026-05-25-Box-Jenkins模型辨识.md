@@ -46,11 +46,11 @@ $$
 PEM 的目标就是通过最小化所有时刻的预测误差平方和来求解参数：
 
 $$
-\begin{align*}
+\begin{aligned}
 \hat{\theta} &= \underset{\theta}{\mathrm{argmin}} \sum_{k=1}^{N} e_k^2 \\
     &= \underset{\theta}{\mathrm{argmin}} \sum_{k=1}^{N} \left[y_k - \hat{y}_k\right]^2 \\
     &= \underset{\theta}{\mathrm{argmin}} \sum_{k=1}^{N} \left(\frac{D(z)}{C(z)}\left[y_k - \frac{B(z)}{F(z)}u_k\right]\right)^2 \\
-\end{align*}
+\end{aligned}
 $$
 
 对应的损失函数为：
