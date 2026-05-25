@@ -31,24 +31,24 @@ redirect_from:
 
 ## 已发表论文
 
-1. **L. Luo**, Y. Qiu, Y. Li, L. Zhou, X. Ji, G. He. ***Hierarchical Causal Discovery and Assessment in Alkaline Electrolysis Process***. Computers & Chemical Engineering, 2026.
-2. S. Wang, W. Jiang, Q. Liu, K. Liu, X. Ji, **L. Luo**, G. He. ***Multi-timescale Modeling Framework for Natural Gas Desulfurization Process: Integrating Time-lagged Causal Relationships with Machine Learning***. Journal of the Taiwan Institute of Chemical Engineers, 2026.
-3. G. He, J. Cui, X. Huang, B. Liu, X. Ji, **L. Luo**, C. Guo. ***Data-Driven Online Optimization for Fluid Catalytic Cracking Using Bayesian Case-Based Reasoning***. Chemical Engineering & Technology, 2025.
-4. R. Wang, L. Ma, Y. Ren, H. Zhao, L. Zhou, **L. Luo**, X. Ji, G. He. ***Compact Temporal Causal Algorithm for Modeling Prediction in the Green Ammonia Production Process***. Chemical Engineering & Technology, 2025.
-5. G. He, **L. Luo**, L. Zhou, Y. Dai, X. Ji, C. Guo, Z. Lu. ***Deep learning prediction of yields of fluid catalytic cracking via differential evolutionary dual-stage attention-based LSTM***. Fuel, 2024.
-6. **L. Luo**, Y. Zhou, Z. Zhou, C. Zhou, X. Ji, B. Liu, G. He. ***Online optimization of petrochemical process via case-based reasoning and conditional mutual information***. Chemical Engineering Research and Design, 2024.
-7. W. Jiang, Z. Li, X. Kang, **L. Luo**, Y. Zhou, Q. Liu, K. Liu, X. Ji, G. He. ***Hybrid modeling approach for natural gas desulfurization process: Coupling mechanism and data modeling via compact variable identification***. Gas Science and Engineering, 2024.
-8. Q. Yang, G. Chen, M. Guo, T. Chen, **L. Luo**, L. Sun. ***Model Predictive Hybrid PID Control and Energy-Saving Performance Analysis of Supercritical Unit***. Energies, 2024.
-9. S. Wang, M. Cheng, **L. Luo**, X. Ji, C. Liu, K. Bi, L. Zhou. ***High-throughput screening of metal–organic frameworks for hydrogen purification***. Chemical Engineering Journal, 2023.
-10. **L. Luo**, G. He, C. Chen, X. Ji, L. Zhou, Y. Dai, Y. Dang. ***Adaptive Data Dimensionality Reduction for Chemical Process Modeling Based on the Information Criterion Related to Data Association and Redundancy***. Industrial & Engineering Chemistry Research, 2022.
-11. **L. Luo**, G. He, Y. Zhang, X. Ji, L. Zhou, Y. Dai, Y. Dang. ***Association Measure and Compact Prediction for Chemical Process Data from An Information-theoretic Perspective***. Processes, 2022.
-12. L. He, **L. Luo**, X. Hou, et al. ***Predicting venous thromboembolism in hospitalized trauma patients: a combination of the Caprini score and data-driven machine learning model***. BMC Emergency Medicine, 2021.
-13. Y. Zhang, **L. Luo**, X. Ji, et al. ***Improved Random Forest Algorithm Based on Decision Paths for Fault Diagnosis of Chemical Process with Incomplete Data***. Sensors, 2021.
-14. **罗磊**, 吉旭. 一种基于相关性分析和深度学习的多元非线性时间序列通用预测方法及其在化工过程中的应用. 2020年中国过程系统工程年会, 重庆, 2020.
-15. **L. Luo**, F. Cheng, T. Qiu, J. Zhao. ***Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes***. Computers & Chemical Engineering, 2017.
-16. **L. Luo**, N. Zhang, Z. Xia, T. Qiu. ***Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene***. Chemical Engineering Science, 2016.
-17. **L. Luo**, T. Qiu, J. Zhao. ***Process Optimization of Propylene under Parametric Disturbances***. PSE Asia 2016.
-18. **L. Luo**, F. Cheng, T. Qiu, J. Zhao. ***An Improved Convergent Cross-Mapping Algorithm for Causality Identification and Time Delay Analysis between Systemic Variables under External Disturbance***. CIESC Journal, 2016.
+1. [SCI, 共同一作] **L. Luo**, Y. Qiu, Y. Li, L. Zhou, X. Ji, G. He. ***Hierarchical Causal Discovery and Assessment in Alkaline Electrolysis Process***. Computers & Chemical Engineering, 2026.
+2. [SCI, 通讯作者] S. Wang, W. Jiang, Q. Liu, K. Liu, X. Ji, **L. Luo**, G. He. ***Multi-timescale Modeling Framework for Natural Gas Desulfurization Process: Integrating Time-lagged Causal Relationships with Machine Learning***. Journal of the Taiwan Institute of Chemical Engineers, 2026.
+3. [SCI, 通讯作者] G. He, J. Cui, X. Huang, B. Liu, X. Ji, **L. Luo**, C. Guo. ***Data-Driven Online Optimization for Fluid Catalytic Cracking Using Bayesian Case-Based Reasoning***. Chemical Engineering & Technology, 2025.
+4. [SCI, 通讯作者] R. Wang, L. Ma, Y. Ren, H. Zhao, L. Zhou, **L. Luo**, X. Ji, G. He. ***Compact Temporal Causal Algorithm for Modeling Prediction in the Green Ammonia Production Process***. Chemical Engineering & Technology, 2025.
+5. [SCI, 二作] G. He, **L. Luo**, L. Zhou, Y. Dai, X. Ji, C. Guo, Z. Lu. ***Deep learning prediction of yields of fluid catalytic cracking via differential evolutionary dual-stage attention-based LSTM***. Fuel, 2024.
+6. [SCI, 一作] **L. Luo**, Y. Zhou, Z. Zhou, C. Zhou, X. Ji, B. Liu, G. He. ***Online optimization of petrochemical process via case-based reasoning and conditional mutual information***. Chemical Engineering Research and Design, 2024.
+7. [SCI] W. Jiang, Z. Li, X. Kang, **L. Luo**, Y. Zhou, Q. Liu, K. Liu, X. Ji, G. He. ***Hybrid modeling approach for natural gas desulfurization process: Coupling mechanism and data modeling via compact variable identification***. Gas Science and Engineering, 2024.
+8. [SCI] Q. Yang, G. Chen, M. Guo, T. Chen, **L. Luo**, L. Sun. ***Model Predictive Hybrid PID Control and Energy-Saving Performance Analysis of Supercritical Unit***. Energies, 2024.
+9. [SCI] S. Wang, M. Cheng, **L. Luo**, X. Ji, C. Liu, K. Bi, L. Zhou. ***High-throughput screening of metal–organic frameworks for hydrogen purification***. Chemical Engineering Journal, 2023.
+10. [SCI, 一作] **L. Luo**, G. He, C. Chen, X. Ji, L. Zhou, Y. Dai, Y. Dang. ***Adaptive Data Dimensionality Reduction for Chemical Process Modeling Based on the Information Criterion Related to Data Association and Redundancy***. Industrial & Engineering Chemistry Research, 2022.
+11. [SCI, 一作] **L. Luo**, G. He, Y. Zhang, X. Ji, L. Zhou, Y. Dai, Y. Dang. ***Association Measure and Compact Prediction for Chemical Process Data from An Information-theoretic Perspective***. Processes, 2022.
+12. [SCI, 二作] L. He, **L. Luo**, X. Hou, et al. ***Predicting venous thromboembolism in hospitalized trauma patients: a combination of the Caprini score and data-driven machine learning model***. BMC Emergency Medicine, 2021.
+13. [SCI, 二作] Y. Zhang, **L. Luo**, X. Ji, et al. ***Improved Random Forest Algorithm Based on Decision Paths for Fault Diagnosis of Chemical Process with Incomplete Data***. Sensors, 2021.
+14. [国内会议] **罗磊**, 吉旭. 一种基于相关性分析和深度学习的多元非线性时间序列通用预测方法及其在化工过程中的应用. 2020年中国过程系统工程年会, 重庆, 2020.
+15. [SCI, 一作] **L. Luo**, F. Cheng, T. Qiu, J. Zhao. ***Refined Convergent Cross-Mapping for Disturbance Propagation Analysis of Chemical Processes***. Computers & Chemical Engineering, 2017.
+16. [SCI, 一作] **L. Luo**, N. Zhang, Z. Xia, T. Qiu. ***Dynamics and Stability Analysis of Gas-Phase Bulk Polymerization of Propylene***. Chemical Engineering Science, 2016.
+17. [国际会议] **L. Luo**, T. Qiu, J. Zhao. ***Process Optimization of Propylene under Parametric Disturbances***. PSE Asia 2016.
+18. [EI, 一作] **L. Luo**, F. Cheng, T. Qiu, J. Zhao. ***An Improved Convergent Cross-Mapping Algorithm for Causality Identification and Time Delay Analysis between Systemic Variables under External Disturbance***. CIESC Journal, 2016.
 
 ## 专利
 
